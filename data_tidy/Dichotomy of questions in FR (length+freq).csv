@@ -1,0 +1,341 @@
+Number,Top-rank type,Q Type,Sentences,Correct Answers (c=correct/ n=incorrect),Testing Feature,Morphosyntactic categories,Syntactic Structure,characters,Frequency
+1,1,Polar,Serait-il possible qu'il soit transféré ?,c, (Serait-il possible que),Adverbs,NA,41,0.156307035
+2,1,Polar,Serait-il possible qu'elle ait un petit ami ?,c,NA,NA,NA,45,0.244227306
+3,1,Polar,Serait-il possible qu'elle ait réellement existé ?,c,NA,NA,NA,50,0.163092039
+4,1,Polar,Serait-il possible que les enseignants sortent pour surveiller les élèves ?,c,NA,NA,NA,75,0.36929209
+5,1,Polar,Serait-il possible qu'elle t'en veuille ?,c,NA,NA,NA,41,0.254381637
+6,1,Polar,Serait-il possible que tu t'en sortes financièrement ?,c,NA,NA,NA,54,0.278335826
+7,1,Polar,Serait-il possible que ce soit pour cette raison qu'elle étudiait ici ?,c,NA,NA,NA,71,0.286472712
+8,1,Polar,Serait-il possible qu'elle travaille seule ?,c,NA,NA,NA,44,0.185575802
+9,1,Polar,Serait-il possible qu'il se soit suicidé ?,c,NA,NA,NA,42,0.182073413
+10,1,Polar,Serait-il possible qu'il ait un problème psychique ?,c,NA,NA,NA,52,0.239014866
+11,1,Polar,Allait-il être transféré en fin de compte ?,n,��1 (En fin de compte),NA,Inversion,43,0.452167653
+12,1,Polar,Avait-elle un petit ami en fin de compte ?,n,NA,NA,Inversion,42,0.449543654
+13,1,Polar,Avait-elle réellement existé en fin de compte ?,n,NA,NA,Inversion,47,0.42569871
+14,1,Polar,Est-ce que les enseignants sortent pour surveiller les élèves en fin de compte ?,n,NA,NA,Est-ce que,80,0.482417677
+15,1,Polar,Est-ce qu'elle t'en veut en fin de compte ?,n,NA,NA,Est-ce que,43,0.42215015
+16,1,Polar,Tu t'en sors financièrement en fin de compte ?,n,NA,NA,Declarative,46,0.352744178
+17,1,Polar,C'est pour cette raison qu'elle étudiait ici en fin de compte ?,n,NA,NA,Declarative,63,0.391492861
+18,1,Polar,Elle travaillait seule en fin de compte ?,n,NA,NA,Declarative,41,0.4566116
+19,1,Polar,Il s'est suicidé en fin de compte ?,n,NA,NA,Declarative,35,0.445712543
+20,20,Polar,Il avait un problème psychique en fin de compte ?,n,NA,NA,Declarative,49,0.500744162
+21,1,Polar,Allait-il être transféré  la fin ?,n,��2 (A la fin),NA,Inversion,35,0.50182243
+22,1,Polar,Avait-elle un petit ami  la fin ?,n,NA,NA,Inversion,34,0.493708154
+23,1,Polar,Avait-elle réellement existé  la fin ?,n,NA,NA,Inversion,39,0.474943099
+24,1,Polar,Est-ce que les enseignants sortent pour surveiller les élèves  la fin ?,n,NA,NA,Est-ce que,72,0.51624388
+25,1,Polar,Est-ce qu'elle t'en veut  la fin ?,n,NA,NA,Est-ce que,35,0.478184544
+26,1,Polar,Tu t'en sors financièrement  la fin ?,n,NA,NA,Declarative,38,0.413044853
+27,1,Polar,C'est pour cette raison qu'elle étudiait ici  la fin ?,n,NA,NA,Declarative,55,0.414745961
+28,1,Polar,Elle travaillait seule  la fin ?,n,NA,NA,Declarative,33,0.521723155
+29,1,Polar,Il s'est suicidé  la fin ?,n,NA,NA,Declarative,27,0.485165522
+30,30,Polar,Il avait un problème psychique  la fin ?,n,NA,NA,Declarative,41,0.555148763
+31,NA,Polar,Je lui demande: « Peut-on se rencontrer ? »,c,��,Question form,Inversion,43,0.1653115
+32,NA,Polar,Je lui demande: « Ne vaut-il pas mieux le laisser dormir ? »,c,NA,NA,Inversion,60,0.248529282
+33,NA,Polar,Il me demande: « Votre fille a-t-elle porté plainte pour viol ? »,c,NA,NA,Inversion,65,0.184803071
+34,NA,Polar,Je lui demande: « Est-ce que cet homme et cette maison existent ? »,c,NA,NA,Est-ce que,67,0.403203393
+35,NA,Polar,Il me demande: « Est-ce que je connaîtrai un jour l'autre monde ? »,c,NA,NA,Est-ce que,67,0.304139696
+36,NA,Polar,Je te demande: « Tu te rappelles ton enfance ? »,c,NA,NA,Declarative,48,0.025254324
+37,NA,Polar,Je lui demande: « La porte de la cage était fermée ? »,c,NA,NA,Declarative,54,0.390562942
+38,NA,Polar,Il te demande: « Tu sais ça ? »,c,NA,NA,Declarative,31,0.122293676
+39,NA,Polar,Elle lui demande: « Ils vont déménager ? »,c,NA,NA,Declarative,42,0.077231446
+40,NA,Polar,Elle me demande: « Il ne t'a rien dit ? »,c,NA,NA,Declarative,41,0.21127159
+41,NA,Polar,Je lui demande si on peut se rencontrer.,c, si,NA,NA,40,0.155143087
+42,NA,Polar,Je lui demande s'il ne vaut pas mieux le laisser dormir.,c,NA,NA,NA,56,0.21687734
+43,NA,Polar,Il me demande si votre fille a porté plainte pour viol.,c,NA,NA,NA,55,0.17866303
+44,NA,Polar,Je lui demande si cet homme et cette maison existent.,c,NA,NA,NA,53,0.29204891
+45,NA,Polar,Il me demande s'il connaîtra un jour l'autre monde.,c,NA,NA,NA,51,0.1806056
+46,NA,Polar,Je te demande si tu te rappelles ton enfance.,c,NA,NA,NA,45,0.028742783
+47,NA,Polar,Je lui demande si la porte de la cage était fermée.,c,NA,NA,NA,51,0.365414052
+48,NA,Polar,Il te demande si tu sais ça.,c,NA,NA,NA,28,0.115775197
+49,NA,Polar,Elle lui demande s'ils vont déménager.,c,NA,NA,NA,38,0.0640131
+50,NA,Polar,Elle me demande s'il ne t'a rien dit.,c,NA,NA,NA,37,0.18458734
+51,NA,Polar,Je lui demande est-ce qu'on peut se rencontrer.,n,ESK,NA,NA,47,0.216592525
+52,NA,Polar,Je lui demande est-ce qu'il ne vaut pas mieux le laisser dormir.,n,NA,NA,NA,64,0.268163529
+53,NA,Polar,Il me demande est-ce que votre fille a porté plainte pour viol.,n,NA,NA,NA,63,0.296749788
+54,NA,Polar,Je lui demande est-ce que cet homme et cette maison existent.,n,NA,NA,NA,61,0.403203393
+55,NA,Polar,Il me demande est-ce qu'il connaîtra un jour l'autre monde.,n,NA,NA,NA,59,0.236159053
+56,NA,Polar,Je te demande est-ce que tu te rappelles ton enfance.,n,NA,NA,NA,53,0.204259613
+57,NA,Polar,Je lui demande est-ce que la porte de la cage était fermée.,n,NA,NA,NA,59,0.455865415
+58,NA,Polar,Il te demande est-ce que tu sais ça.,n,NA,NA,NA,36,0.298786729
+59,NA,Polar,Elle lui demande est-ce qu'ils vont déménager.,n,NA,NA,NA,46,0.162145908
+60,NA,Polar,Elle me demande est-ce qu'il ne t'a rien dit.,n,NA,NA,NA,45,0.239672353
+61,45293,WH,Où serait-il possible que tu ailles ?,n, (Serait-il possible que),Adverbs,NA,37,0.273038167
+62,45293,WH,Que serait-il possible qu'on fasse ?,n,NA,NA,NA,36,0.387927054
+63,45293,WH,Que serait-il possible que vous lui vouliez ?,n,NA,NA,NA,45,0.30764779
+64,45293,WH,Que serait-il possible qu'elle veuille dire ?,n,NA,NA,NA,45,0.292894537
+65,45293,WH,Pourquoi serait-il possible qu'ils ne le cherchent pas la nuit ?,n,NA,NA,NA,64,0.329394182
+66,45293,WH,Pourquoi serait-il possible qu'il ne soit pas l ?,n,NA,NA,NA,50,0.205926057
+67,45293,WH,Qui serait-il possible qui aille s'occuper de sa fille ?,n,NA,NA,NA,56,0.442306175
+68,45293,WH,Comment serait-il possible que tu saches que je viendrai  Saint-Lazare ?,n,NA,NA,NA,73,0.392681946
+69,45293,WH,Comment serait-il possible que vous l'ayez appelé ?,n,NA,NA,NA,51,0.244121758
+70,45293,WH,Sur quelle plage serait-il possible que tu ailles passer tes étés ?,n,NA,NA,NA,67,0.190071364
+71,NA,WH,Où allais-tu en fin de compte ?,c,��1 (En fin de compte),NA,Inversion,31,0.3989852
+72,NA,WH,Que faisait-on en fin de compte ?,c,NA,NA,Inversion,33,0.615207584
+73,NA,WH,Que lui voulez-vous en fin de compte ?,c,NA,NA,Inversion,38,0.479911581
+74,NA,WH,Que voulait-elle dire en fin de compte ?,c,NA,NA,Inversion,40,0.495890133
+75,NA,WH,Pourquoi ils ne le cherchent pas la nuit en fin de compte ?,c,NA,NA,No-inversion,59,0.472874171
+76,NA,WH,Pourquoi il n'était pas l en fin de compte ?,c,NA,NA,No-inversion,45,0.442579371
+77,NA,WH,Qui va aller s'occuper de sa fille en fin de compte ?,c,NA,NA,No-inversion,53,0.340968243
+78,NA,WH,Comment est-ce que tu savais que je viendrai  Saint-Lazare en fin de compte ?,c,NA,NA,Est-ce que,78,0.491782955
+79,NA,WH,Comment est-ce que vous l'aviez appelé en fin de compte ?,c,NA,NA,Est-ce que,57,0.401468427
+80,NA,WH,Sur quelle plage est-ce que tu vas passer tes étés en fin de compte ?,c,NA,NA,Est-ce que,69,0.349530558
+81,45293,WH,Où allais-tu  la fin ?,c,��2 (A la fin),NA,Inversion,23,0.441551211
+82,45293,WH,Que faisait-on  la fin ?,c,NA,NA,Inversion,25,0.725632278
+83,45293,WH,Que lui voulez-vous  la fin ?,c,NA,NA,Inversion,30,0.535731675
+84,45293,WH,Que voulait-elle dire  la fin ?,c,NA,NA,Inversion,32,0.555261017
+85,45293,WH,Pourquoi ils ne le cherchent pas la nuit  la fin ?,c,NA,NA,No-inversion,51,0.459891633
+86,45293,WH,Pourquoi il n'était pas l  la fin ?,c,NA,NA,No-inversion,37,0.485351014
+87,45293,WH,Qui va aller s'occuper de sa fille  la fin ?,c,NA,NA,No-inversion,45,0.549621358
+88,45293,WH,Comment est-ce que tu savais que je viendrai  Saint-Lazare  la fin ?,c,NA,NA,Est-ce que,70,0.412369822
+89,45293,WH,Comment est-ce que vous l'aviez appelé  la fin ?,c,NA,NA,Est-ce que,49,0.424501396
+90,45293,WH,Sur quelle plage est-ce que tu vas passer tes étés  la fin ?,c,NA,NA,Est-ce que,61,0.362953825
+91,45293,WH,Je lui demande: « Que fait-on exactement dans votre centre ? »,c,��,Question form,Inversion,62,0.219471127
+92,45293,WH,Je lui demande: « Qui est-il ? »,c,NA,NA,Inversion,32,0.366187535
+93,45293,WH,Elle me demande: « Où est-il ? »,c,NA,NA,Inversion,32,0.3156283
+94,45293,WH,Il me demande: « Comment t'appelles-tu ? »,c,NA,NA,Inversion,42,0.123752944
+95,45293,WH,Je te demande: « Pourquoi tu es toujours pressé ? »,c,NA,NA,No-inversion,51,0.033674251
+96,45293,WH,Je te demande: «  quelle heure tu commences ton boulot ? »,c,NA,NA,No-inversion,59,0.191750617
+97,45293,WH,Elle lui demande: « De quoi vous voulez qu'on parle ? »,c,NA,NA,No-inversion,55,0.332793677
+98,45293,WH,Il te demande:« Pourquoi est-ce que tu es venu seul ici ? »,c,NA,NA,Est-ce que,59,0.245360586
+99,45293,WH,Je lui demande: « Qu'est-ce qu'on sait ? »,c,NA,NA,Est-ce que,42,0.19137184
+100,45293,WH,Il lui demande: « Comment est-ce qu'elle était entrée ? »,c,NA,NA,Est-ce que,57,0.205487137
+101,45293,WH,Je lui demande ce qu'on fait exactement dans votre centre.,c,,NA,Inversion,58,0.142003298
+102,45293,WH,Je lui demande qui il est.,c,NA,NA,Inversion,26,0.366187535
+103,45293,WH,Elle me demande où il est.,c,NA,NA,Inversion,26,0.3156283
+104,45293,WH,Il me demande comment tu t'appelles.,c,NA,NA,Inversion,36,0.123752944
+105,45293,WH,Je te demande pourquoi tu es toujours pressé.,c,NA,NA,No-inversion,45,0.033674251
+106,45293,WH,Je te demande  quelle heure tu commences ton boulot.,c,NA,NA,No-inversion,53,0.191750617
+107,45293,WH,Elle lui demande de quoi vous voulez qu'on parle.,c,NA,NA,No-inversion,49,0.332793677
+108,45293,WH,Il te demande pourquoi tu es venu seul ici.,c,NA,NA,Est-ce que,43,0.097574313
+109,45293,WH,Je lui demande ce qu'on sait.,c,NA,NA,Est-ce que,29,0.115780821
+110,45293,WH,Il lui demande comment elle était entrée.,c,NA,NA,Est-ce que,41,0.154892059
+111,45324,Disjunctive,Serait-il possible que ce soit une déformation professionnelle ou une conviction intime ?,n, (Serait-il possible que),Adverbs,NA,89,0.273438672
+112,45324,Disjunctive,Serait-il possible que ce soit une fille ou un garçon ?,n,NA,NA,NA,55,0.37243318
+113,45324,Disjunctive,Serait-il possible qu'il manque de courage ou qu'il se tire une balle ?,n,NA,NA,NA,71,0.378202399
+114,45324,Disjunctive,Serait-il possible qu'on doive fermer les yeux ou qu'on doive les ouvrir ?,n,NA,NA,NA,74,0.265955922
+115,45324,Disjunctive,Serait-il possible que l'ADN force cette culture ou que cette culture modifie l'ADN ?,n,NA,NA,NA,85,0.278402567
+116,45324,Disjunctive,Serait-il possible que l'horloge biologique ou la sécrétion d'hormones déclenchent l'assaut ?,n,NA,NA,NA,93,0.270601776
+117,45324,Disjunctive,Serait-il possible qu'elle veuille le revoir ou définitivement l'oublier ?,n,NA,NA,NA,74,0.219202528
+118,45324,Disjunctive,Serait-il possible que le magasin se trouve  gauche ou  droite ?,n,NA,NA,NA,66,0.546057658
+119,45324,Disjunctive,Serait-il possible qu'elle prenne la direction de Lille ou de Paris ?,n,NA,NA,NA,69,0.53140295
+120,45324,Disjunctive,Serait-il possible qu'il s'agisse d'une coïncidence ou d'autre chose ?,n,NA,NA,NA,70,0.190756137
+121,45324,Disjunctive,Est-ce une déformation professionnelle ou une conviction intime en fin de compte ?,c,��1 (En fin de compte),NA,Inversion,82,0.38794828
+122,45324,Disjunctive,Est-ce une fille ou un garçon en fin de compte ?,c,NA,NA,Inversion,48,0.481725324
+123,45324,Disjunctive,Manque-t-il de courage ou se tire-t-il une balle en fin de compte ?,c,NA,NA,Inversion,67,0.35726619
+124,45324,Disjunctive,Est-ce qu'on doit fermer les yeux ou les ouvrir en fin de compte ?,c,NA,NA,Est-ce que,66,0.419630923
+125,45324,Disjunctive,Est-ce que l'ADN forçait cette culture ou cette culture modifiait l'ADN en fin de compte ?,c,NA,NA,Est-ce que,90,0.438036574
+126,45324,Disjunctive,L'horloge biologique ou la sécrétion d'hormones déclenchent l'assaut en fin de compte ?,c,NA,NA,Declarative,87,0.325634701
+127,45324,Disjunctive,Elle veut le revoir ou définitivement l'oublier en fin de compte ?,c,NA,NA,Declarative,66,0.368846238
+128,45324,Disjunctive,Le magasin se trouve  gauche ou  droite en fin de compte ?,c,NA,NA,Declarative,60,0.577463435
+129,45324,Disjunctive,Elle prend la direction de Lille ou de Paris en fin de compte ?,c,NA,NA,Declarative,63,0.469278973
+130,45324,Disjunctive,Il s'agit d'une coïncidence ou d'autre chose en fin de compte ?,c,NA,NA,Declarative,63,0.366915369
+131,45324,Disjunctive,Est-ce une déformation professionnelle ou une conviction intime  la fin ?,c,��2 (A la fin),NA,Inversion,74,0.409178563
+132,45324,Disjunctive,Est-ce une fille ou un garçon  la fin ?,c,NA,NA,Inversion,40,0.517868777
+133,45324,Disjunctive,Manque-t-il de courage ou se tire-t-il une balle  la fin ?,c,NA,NA,Inversion,59,0.520457387
+134,45324,Disjunctive,Est-ce qu'on doit fermer les yeux ou les ouvrir  la fin ?,c,NA,NA,Est-ce que,58,0.445085559
+135,45324,Disjunctive,Est-ce que l'ADN forçait cette culture ou cette culture modifiait l'ADN  la fin ?,c,NA,NA,Est-ce que,82,0.465945297
+136,45324,Disjunctive,L'horloge biologique ou la sécrétion d'hormones déclenchent l'assaut  la fin ?,c,NA,NA,Declarative,79,0.285800775
+137,45324,Disjunctive,Elle veut le revoir ou définitivement l'oublier  la fin ?,c,NA,NA,Declarative,58,0.388864107
+138,45324,Disjunctive,Le magasin se trouve  gauche ou  droite  la fin ?,c,NA,NA,Declarative,52,0.492540202
+139,45324,Disjunctive,Elle prend la direction de Lille ou de Paris  la fin ?,c,NA,NA,Declarative,55,0.709455237
+140,45324,Disjunctive,Il s'agit d'une coïncidence ou d'autre chose  la fin ?,c,NA,NA,Declarative,55,0.384189645
+141,45324,Disjunctive,Je lui demande: « Est-ce une initiative de la mairie ou de la préfecture ? »,c,��,Question form,Inversion,76,0.454127255
+142,45324,Disjunctive,Je lui demande: « tait-elle toujours dans son bureau ou était-elle repartie chez elle ? »,c,NA,NA,Inversion,90,0.158112005
+143,45324,Disjunctive,"Il me demande: « Ces deux-l étaient-ils amants, ou frère et sur ? »",c,NA,NA,Inversion,69,0.323015543
+144,45324,Disjunctive,Je lui demande: « Est-ce qu'il choisit Paris ou Marseille ? »,c,NA,NA,Est-ce que,61,0.227883776
+145,45324,Disjunctive,Il me demande: « Est-ce que je dois rester l ou courir la rejoindre ? »,c,NA,NA,Est-ce que,72,0.338146111
+146,45324,Disjunctive,Je lui demande: « On y va ou tu préfères passer la nuit ici ? »,c,NA,NA,Declarative,63,0.147838144
+147,45324,Disjunctive,Je lui demande: « C'est un mariage ou c'est un mort ? »,c,NA,NA,Declarative,55,0.210512481
+148,45324,Disjunctive,Il me demande:« Je le garde ou je l'envoie  ta grand-mère ? »,c,NA,NA,Declarative,62,0.331515294
+149,45324,Disjunctive,Elle lui demande: « Vous supposez ou vous savez ? »,c,NA,NA,Declarative,51,0.099843195
+150,45324,Disjunctive,Elle me demande: « Il avait raconté toute la vérité ou une partie ? »,c,NA,NA,Declarative,69,0.278234952
+151,45324,Disjunctive,Je lui demande si c'est une initiative de la mairie ou de la préfecture.,c, si,NA,NA,72,0.417022975
+152,45324,Disjunctive,Je lui demande si elle était toujours dans son bureau ou repartie chez elle.,c,NA,NA,NA,76,0.152862859
+153,45324,Disjunctive,Il me demande si ces deux-l étaient amants ou frère et soeur.,c,NA,NA,NA,62,0.336832442
+154,45324,Disjunctive,Je lui demande s'il choisit Paris ou Marseille.,c,NA,NA,NA,47,0.150624473
+155,45324,Disjunctive,Il me demande s'il doit rester l ou courir la rejoindre.,c,NA,NA,NA,57,0.20870622
+156,45324,Disjunctive,Je lui demande si on y a va ou si tu préfères passer la nuit ici.,c,NA,NA,NA,65,0.161751552
+157,45324,Disjunctive,Je lui demande si c'est un mariage ou si c'est un mort.,c,NA,NA,NA,55,0.200720139
+158,45324,Disjunctive,Il me demande s'il le garde ou s'il l'envoie  sa grand-mère.,c,NA,NA,NA,61,0.316368681
+159,45324,Disjunctive,Elle lui demande si vous supposez ou si vous savez.,c,NA,NA,NA,51,0.096221612
+160,45324,Disjunctive,Elle me demande s'il avait raconté toute la vérité ou une partie.,c,NA,NA,NA,65,0.246811983
+161,NA,Disjunctive,Je lui demande est-ce que c'est une initiative de la mairie ou de la préfecture.,n,ESK,NA,NA,80,0.476099538
+162,NA,Disjunctive,Je lui demande est-ce qu'elle était toujours dans son bureau ou repartie chez elle.,n,NA,NA,NA,83,0.191228734
+163,NA,Disjunctive,Il me demande est-ce que ces deux-l étaient amants ou frère et soeur.,n,NA,NA,NA,70,0.427006951
+164,NA,Disjunctive,Je lui demande est-ce qu'il choisit Paris ou Marseille.,n,NA,NA,NA,55,0.227883776
+165,NA,Disjunctive,Il me demande est-ce qu'il doit rester l ou courir la rejoindre.,n,NA,NA,NA,65,0.267920051
+166,NA,Disjunctive,Je lui demande est-ce qu'on y va ou est-ce que tu préfères passer la nuit ici.,n,NA,NA,NA,78,0.232999927
+167,NA,Disjunctive,Je lui demande est-ce que c'est un mariage ou est-ce que c'est un mort.,n,NA,NA,NA,71,0.280700201
+168,NA,Disjunctive,Il me demande est-ce qu'il le garde ou est-ce qu'il l'envoie  sa grand-mère.,n,NA,NA,NA,77,0.351783551
+169,NA,Disjunctive,Elle lui demande est-ce que vous supposez ou est-ce que vous savez.,n,NA,NA,NA,67,0.269667699
+170,45324,Disjunctive,Elle me demande est-ce qu'il avait raconté toute la vérité ou une partie.,n,NA,NA,NA,73,0.289548611
+171,Filler,Filler,"Les samedis, il se sentit seul.",c,Trois jours (N=14),NA,NA,31,0.425723092
+172,Filler,Filler,"Jouer avec une fille, ça n'est pas pareil.",c,NA,NA,NA,42,0.256053438
+173,Filler,Filler,Cette tâche lui prit beaucoup de temps.,c,NA,NA,NA,39,0.402706931
+174,Filler,Filler,Personne ne doit savoir pour cette cabane.,c,NA,NA,NA,42,0.191970264
+175,Filler,Filler,Le chauffeur ne s'arrêta pas.,c,NA,NA,NA,29,0.282246197
+176,Filler,Filler,Il se sentait vaguement ridicule.,c,NA,NA,NA,33,0.290987485
+177,Filler,Filler,La vie n'avait plus aucun goût.,c,NA,NA,NA,31,0.191770489
+178,Filler,Filler,Il faut s'y prendre autrement.,c,NA,NA,NA,30,0.145888956
+179,NA,Filler,Tout cela n'a plus d'importance.,c,NA,NA,NA,32,0.122131425
+180,NA,Filler,On se pose beaucoup de questions.,c,NA,NA,NA,33,0.584323921
+181,NA,Filler,C'était un peu par réflexe.,c,NA,NA,NA,27,0.323317466
+182,NA,Filler,Il émit un petit rire sec et bref.,c,NA,NA,NA,34,0.470000639
+183,NA,Filler,La réponse avait été immédiate.,c,NA,NA,NA,31,0.249867579
+184,NA,Filler,La ville avait changé ces dernières années.,c,NA,NA,NA,43,0.232667349
+185,Filler,Filler,Je n'appartenais  aucun d'eux.,c,Le voleur d'ombres (N=14),NA,NA,31,0.342486098
+186,Filler,Filler,Elles se sont évanouies avec le temps.,c,NA,NA,NA,38,0.3561515
+187,Filler,Filler,Je n'avais droit  aucun sourire.,c,NA,NA,NA,33,0.284124809
+188,Filler,Filler,"Dans la pratique, c'est une autre histoire.",c,NA,NA,NA,43,0.370337289
+189,Filler,Filler,La cour n'est pas bien grande.,c,NA,NA,NA,30,0.294664668
+190,Filler,Filler,Il allait quitter la maison.,c,NA,NA,NA,28,0.411342071
+191,Filler,Filler,Il avait plu tout octobre.,c,NA,NA,NA,26,0.166210579
+192,Filler,Filler,Je vais finir par croire qu'il a raison.,c,NA,NA,NA,40,0.26502874
+193,NA,Filler,Elle est montée dans l'autobus.,c,NA,NA,NA,31,0.266352815
+194,NA,Filler,Le gardien m'a tout de suite reconnu.,c,NA,NA,NA,37,0.408020945
+195,NA,Filler,Il faudra attendre un peu.,c,NA,NA,NA,26,0.354826851
+196,NA,Filler,Je me suis garé devant la digue.,c,NA,NA,NA,32,0.158001336
+197,NA,Filler,Tu es juste devenu adulte.,c,NA,NA,NA,26,0.007021672
+198,NA,Filler,La cour était silencieuse et déserte.,c,NA,NA,NA,37,0.567956496
+199,NA,Filler,Une petite fille avait froid.,c,Gataga (N=15),NA,NA,29,0.210409247
+200,NA,Filler,"Sa voix était hésitante, mal assurée.",c,NA,NA,NA,37,0.059693091
+201,NA,Filler,C'était  peine une semaine plus tôt.,c,NA,NA,NA,37,0.344863125
+202,NA,Filler,Il aimait trop cette femme.,c,NA,NA,NA,27,0.25679548
+203,NA,Filler,Il n'y avait qu'une seule solution.,c,NA,NA,NA,35,0.261713065
+204,NA,Filler,Elle sentait le cur battre.,c,NA,NA,NA,28,0.274601562
+205,NA,Filler,Je sais que ce n'est pas possible.,c,NA,NA,NA,34,0.35019001
+206,NA,Filler,La flic ne trouva plus la force de parler.,c,NA,NA,NA,42,0.463336218
+207,NA,Filler,Il portait encore sa ceinture de sécurité.,c,NA,NA,NA,42,0.540309332
+208,NA,Filler,"Il ne dormait pas non plus, cette nuit-l.",c,NA,NA,NA,42,0.22775597
+209,NA,Filler,Ils vous ont ramenée au bateau.,c,NA,NA,NA,31,0.187151525
+210,NA,Filler,Mais il a eu une phrase pour vous.,c,NA,NA,NA,34,0.30770898
+211,NA,Filler,Le bateau naviguait dans le sens du courant.,c,NA,NA,NA,44,0.310011268
+212,NA,Filler,Nos travaux avançaient vite et bien.,c,NA,NA,NA,36,0.313835139
+213,NA,Filler,Les images continuaient  se chevaucher dans sa tête.,c,NA,NA,NA,53,0.463142681
+214,NA,Filler,Tout le monde a été surpris.,c,La vie des elfes (N=14),NA,NA,28,0.205053864
+215,NA,Filler,Il se met  neiger d'un coup.,c,NA,NA,NA,29,0.557501368
+216,NA,Filler,Elle ne comprend pas ce qu'il dit.,c,NA,NA,NA,34,0.268527233
+217,NA,Filler,Elle se trouvait  mi-hauteur du village.,c,NA,NA,NA,41,0.543147531
+218,NA,Filler,Il y avait un grand vide de sensations.,c,NA,NA,NA,39,0.542598101
+219,NA,Filler,Il joua encore une fois le morceau.,c,NA,NA,NA,35,0.358763723
+220,NA,Filler,Il prit une profonde inspiration.,c,NA,NA,NA,33,0.32931092
+221,NA,Filler,Elle savait beaucoup de choses.,c,NA,NA,NA,31,0.566489079
+222,NA,Filler,Elle resta debout devant lui.,c,NA,NA,NA,29,0.058745379
+223,NA,Filler,On combattra bientôt sur tous les fronts.,c,NA,NA,NA,41,0.262858034
+224,NA,Filler,Trois hommes vont venir demain.,c,NA,NA,NA,31,0.024155095
+225,NA,Filler,Je ne peux pas rester au village.,c,NA,NA,NA,33,0.245859572
+226,NA,Filler,Elle racontait une histoire d'amour.,c,NA,NA,NA,36,0.229659907
+227,NA,Filler,Ce ne sera pas une confession.,c,NA,NA,NA,30,0.321529025
+228,NA,Filler,La plupart des passagers dormaient.,c,Un avion sans elle (N=14),NA,NA,35,0.605659712
+229,NA,Filler,C'était son heure de pause.,c,NA,NA,NA,27,0.451909152
+230,NA,Filler,On sera  Paris dans moins d'une heure.,c,NA,NA,NA,39,0.459568345
+231,NA,Filler,Vous devez rester attachée.,c,NA,NA,NA,27,0.016434008
+232,NA,Filler,Elle ne ressentit aucune douleur.,c,NA,NA,NA,33,0.153272172
+233,NA,Filler,Il n'avait toujours aucune certitude.,c,NA,NA,NA,37,0.176142973
+234,NA,Filler,Le reste ne le concernait plus.,c,NA,NA,NA,31,0.285157311
+235,NA,Filler,Ce couple lui rongeait les nerfs.,c,NA,NA,NA,33,0.180643855
+236,NA,Filler,Ils avaient des traits communs.,c,NA,NA,NA,31,0.356842511
+237,NA,Filler,Elle découvrit un bijou en argent.,c,NA,NA,NA,34,0.301715358
+238,NA,Filler,Il n'osait plus bouger.,c,NA,NA,NA,23,0.205934266
+239,NA,Filler,Son corps se soulevait lentement.,c,NA,NA,NA,33,0.156918035
+240,NA,Filler,Il n'est pas trop tard pour moi.,c,NA,NA,NA,32,0.345232974
+241,NA,Filler,Tout aurait dû être beaucoup plus simple.,c,NA,NA,NA,41,0.066308863
+242,NA,Filler,Le garçon mime un peu la tristesse.,c,Anomalie (N=14),NA,NA,35,0.378192137
+243,NA,Filler,Cest un métier de service.,c,NA,NA,NA,27,0.657546286
+244,NA,Filler,Il a sans doute une bonne raison pour ça.,c,NA,NA,NA,41,0.300456308
+245,NA,Filler,Il a vu tellement de films.,c,NA,NA,NA,27,0.577948884
+246,NA,Filler,Il prendra lavion pour Londres.,c,NA,NA,NA,32,0.32258323
+247,NA,Filler,Il va chercher ses deux enfants.,c,NA,NA,NA,32,0.231021839
+248,NA,Filler,On nest jamais trop prudent.,c,NA,NA,NA,29,0.234495587
+249,NA,Filler,Elle na pas remarqué lajout.,c,NA,NA,NA,30,0.175021821
+250,NA,Filler,Cest un moment paisible.,c,NA,NA,NA,25,0.319133383
+251,NA,Filler,Ils sont bloqués dans leur hôtel.,c,NA,NA,NA,33,0.231824271
+252,NA,Filler,Il cherche clairement  passer inaperçu.,c,NA,NA,NA,40,0.523306212
+253,NA,Filler,Il ne tente pas dexpliquer.,c,NA,NA,NA,28,0.287905918
+254,NA,Filler,Cest le pire de tous les maux.,c,NA,NA,NA,31,0.703088973
+255,NA,Filler,Nous sommes prêts  tordre la réalité.,c,NA,NA,NA,38,0.502731368
+256,NA,Filler,"Marco, c'est un arabe pays.",n,Faute de l'ordre des mots (adjectif),NA,NA,27,0.324964499
+257,NA,Filler,C'est leurs régionales langues.,n,NA,NA,NA,31,0.192010574
+258,NA,Filler,C'est lac un beau.,n,NA,NA,NA,18,0.315360318
+259,NA,Filler,Le produit brut augmenté intérieur a.,n,NA,NA,NA,37,0.197364838
+260,NA,Filler,C'est l'une plus des connues institutions.,n,NA,NA,NA,42,0.356725818
+261,NA,Filler,C'est une possibilité bonne.,n,NA,NA,NA,28,0.309544032
+262,NA,Filler,Il a tout un marché énorme.,n,NA,NA,NA,27,0.275971252
+263,NA,Filler,Mais il aujourd'hui est évident.,n,NA,NA,NA,32,0.31684794
+264,NA,Filler,J'apprécie beaucoup attitude cette nouvelle.,n,NA,NA,NA,44,0.067097674
+265,NA,Filler,La fière bière est tradition une.,n,NA,NA,NA,33,0.405450068
+266,NA,Filler,Il y a eu fortes des inégalités.,n,NA,NA,NA,32,0.454118886
+267,NA,Filler,Il ne représente pas formidable un défi.,n,NA,NA,NA,40,0.362799108
+268,NA,Filler,Le cancer est maladie une grave.,n,NA,NA,NA,32,0.356120976
+269,NA,Filler,C'est pays joli un.,n,NA,NA,NA,19,0.324537006
+270,NA,Filler,Ce sont des modernes bâtiments.,n,NA,NA,NA,31,0.500427355
+271,NA,Filler,Ville une parfaite c'est.,n,NA,NA,NA,25,0.272741784
+272,NA,Filler,Il y des plus proches liens aura.,n,NA,NA,NA,33,0.403482904
+273,NA,Filler,Il satisfait est de notre gouvernementale actuelle structure.,n,NA,NA,NA,61,0.510540589
+274,NA,Filler,Il n'y a vieille d'église pas.,n,NA,NA,NA,30,0.250252327
+275,NA,Filler,J'ai vraies des amies.,n,NA,NA,NA,22,0.391672788
+276,NA,Filler,Des sont domestiques animaux nos mignons amis.,n,NA,NA,NA,46,0.232448761
+277,NA,Filler,Des sommes sont vastes dépensées la publicité pour.,n,NA,NA,NA,51,0.509217243
+278,NA,Filler,On une construction avec commence la naissance de la Communauté européenne économique.,n,NA,NA,NA,86,0.505122175
+279,NA,Filler,"En 1987, l'Acte européen unique été adopté a.",n,NA,NA,NA,45,0.147527653
+280,NA,Filler,On a parlé tous entendu des européennes extravagances célèbres.,n,NA,NA,NA,63,0.279580062
+281,NA,Filler,Des films il y a mauvais.,n,NA,NA,NA,25,0.513812021
+282,NA,Filler,Ils créent un économique fort pouvoir.,n,NA,NA,NA,38,0.155758233
+283,NA,Filler,Il a sur vraiment la génération jeune de l'impact.,n,NA,NA,NA,50,0.507001588
+284,NA,Filler,Les députés leur directement sont redevables.,n,NA,NA,NA,45,0.214972584
+285,NA,Filler,Il y seul a d'adhérer au système une chance.,n,NA,NA,NA,44,0.307250298
+286,NA,Filler,"A un niveau autre différent, ils peuvent travailler ensemble.",n,NA,NA,NA,61,0.183387805
+287,NA,Filler,Ils sont contre une unique européenne monnaie.,n,NA,NA,NA,46,0.165109703
+288,NA,Filler,Ils des caractères mauvais apprennent et des violents hommes deviennent.,n,NA,NA,NA,72,0.534492027
+289,NA,Filler,Ils profité ont de la France en ce qui concerne la totale de 6  16 ans scolarisation.,n,NA,NA,NA,86,0.678664966
+290,NA,Filler,C'est une importante de sa vie étape.,n,NA,NA,NA,37,0.549541186
+291,NA,Filler,Ils tendent disparaître  faire les différences entre étudiants jeunes et étudiants adultes.,n,NA,NA,NA,92,0.49549308
+292,NA,Filler,Cet accord le Canada impotent rendrait.,n,NA,NA,NA,39,0.193117907
+293,NA,Filler,Les territoires gouvernés par deux territoriales collectivités rend la complexe situation.,n,NA,NA,NA,90,0.271589716
+294,NA,Filler,La domestique violence est très élevée.,n,NA,NA,NA,39,0.288918797
+295,NA,Filler,C'est une possibilité bonne pour la création des effectives technologies.,n,NA,NA,NA,73,0.454117741
+296,NA,Filler,Il est considéré comme la langue de la supérieure classe.,n,NA,NA,NA,57,0.586898917
+297,NA,Filler,Il n'y a pas de buildings grands beaucoup.,n,NA,NA,NA,42,0.513419383
+298,NA,Filler,Cuisine seulement elle.,n,Faute de l'ordre des mots (adverbe),NA,NA,23,0.083012246
+299,NA,Filler,Je peux mamuser bien  luniversité.,n,NA,NA,NA,37,0.254616607
+300,NA,Filler,Il laccepter faut tout de même.,n,NA,NA,NA,32,0.426992898
+301,NA,Filler,Cest unique une aussi chance.,n,NA,NA,NA,30,0.285909633
+302,NA,Filler,On peut voir des gens que jamais on vus n'a.,n,NA,NA,NA,44,0.419528532
+303,NA,Filler,Négative parfois la télévision est donc.,n,NA,NA,NA,40,0.32726903
+304,NA,Filler,Il faire peut encore un an de rattrapage.,n,NA,NA,NA,41,0.614631719
+305,NA,Filler,Les gens n�taient toujours contents pas.,n,NA,NA,NA,41,0.193679688
+306,NA,Filler,Je suis partout allée.,n,NA,NA,NA,22,0.043425711
+307,NA,Filler,Les îles ont changé beaucoup.,n,NA,NA,NA,29,0.268121486
+308,NA,Filler,Vu aussi jai Bruxelles.,n,NA,NA,NA,24,0.04318836
+309,NA,Filler,"Plus ou moins, je fini ai.",n,NA,NA,NA,26,0.140401566
+310,NA,Filler,Je beaucoup dois étudier.,n,NA,NA,NA,25,0.060056326
+311,NA,Filler,Je nai mangé pas beaucoup.,n,NA,NA,NA,27,0.102105002
+312,NA,Filler,Nont fait pas elles d�tudes.,n,NA,NA,NA,30,0.131392412
+313,NA,Filler,Il réussi na pas.,n,NA,NA,NA,18,0.315178814
+314,NA,Filler,Ce nest possible pas peut-être.,n,NA,NA,NA,32,0.234980728
+315,NA,Filler,Leur instinct maternel presque nexiste pas.,n,NA,NA,NA,44,0.06440952
+316,NA,Filler,Je aussi vais prendre le bus.,n,NA,NA,NA,29,0.203585422
+317,NA,Filler,Je facilement ai trouvé une chambre.,n,NA,NA,NA,36,0.165399713
+318,NA,Filler,Il m'a par conséquent semblé efficace très.,n,NA,NA,NA,43,0.255503737
+319,NA,Filler,Elle devrait contrôler bien toutes les espèces peut-être.,n,NA,NA,NA,57,0.172820247
+320,NA,Filler,Peut-être une possibilité est d'ensemble mettre les photocopies.,n,NA,NA,NA,64,0.260464178
+321,NA,Filler,Peut-être va alors la situation s'améliorer.,n,NA,NA,NA,44,0.168687309
+322,NA,Filler,Eux beaucoup d'entre non n'échappent plus  ce type de violence.,n,NA,NA,NA,64,0.398751
+323,NA,Filler,Ils ne peut-être voudraient pas travailler.,n,NA,NA,NA,43,0.189200412
+324,NA,Filler,Le sport a plus d'importance petit  petit dans mon pays.,n,NA,NA,NA,57,0.401664664
+325,NA,Filler,L'étude des autres langues en importante plus est.,n,NA,NA,NA,50,0.370048572
+326,NA,Filler,De plus en plus il indispensable est  notre époque.,n,NA,NA,NA,52,0.756249442
+327,NA,Filler,Les seules décorations exemple par de la maison religieuses sont.,n,NA,NA,NA,65,0.647166057
+328,NA,Filler,Je ne peux pas néanmoins quand même dire que je le connais.,n,NA,NA,NA,59,0.275380513
+329,NA,Filler,Ils non plus l'idée d'une société distincte n'aiment pas.,n,NA,NA,NA,57,0.16646467
+330,NA,Filler,Les Britanniques bien sûr céder ne veulent pas.,n,NA,NA,NA,47,0.203345032
+331,NA,Filler,Ils précisaient cet objectif comme suit plus ou moins.,n,NA,NA,NA,54,0.129408146
+332,NA,Filler,On résoudre pourra des problèmes de la pauvreté efficacement plus.,n,NA,NA,NA,66,0.61820481
+333,NA,Filler,Je suis les cours  l'université assez bien.,n,NA,NA,NA,44,0.28225625
+334,NA,Filler,J'ai l'actualité de très près suivi.,n,NA,NA,NA,36,0.357989868
+335,NA,Filler,Cela bien beaucoup sûr a créé de problèmes.,n,NA,NA,NA,43,0.324503919
+336,NA,Filler,"En revanche, peut-être ces gens paresseux sont.",n,NA,NA,NA,47,0.17567688
+337,NA,Filler,Tout est grave de plus en plus.,n,NA,NA,NA,31,0.516086833
+338,NA,Filler,On souvent est seulement fatigué.,n,NA,NA,NA,33,0.266815406
+339,NA,Filler,Ma famille manqué m'a beaucoup.,n,NA,NA,NA,31,0.098503056
+340,NA,Filler,Je n'ai beaucoup pas encore d'amis.,n,NA,NA,NA,35,0.120968875

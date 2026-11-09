@@ -1,0 +1,82 @@
+version: 3.4.4
+server-time: 2024-10-08-14-11
+client-time: 2024-09-08-14-11
+cgi: PROLIFIC_PID 60fd3ad24b4ca4993021e35c
+cgi: STUDY_ID 670407135cfceccccbbb953b
+cgi: and 
+cgi: SESSION_ID 670520e4aec5c482a8f52373
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_15_7) applewebkit/537.36 (khtml, like gecko) chrome/126.0.0.0 safari/537.36
+screen_width: 1440
+screen_height: 900
+html_width: 1217
+html_height: 4085
+user_time: 2024-09-08-14-11
+T: 0
+l: opening_background_message
+stime: 2024-10-08-14-11
+T: 2069
+t: info
+l: prolific_ID
+stime: 2024-10-08-14-11
+T: 2486
+t: textbox
+a: 60fd3ad24b4ca4993021e35c
+l: gender
+stime: 2024-10-08-14-11
+T: 1966
+t: radio
+a: 2
+l: age
+stime: 2024-10-08-14-11
+T: 5984
+t: range
+a: 26
+s: 26
+l: education
+stime: 2024-10-08-14-11
+T: 5427
+t: radio
+a: 3
+l: language
+stime: 2024-10-08-14-11
+T: 3239
+t: check
+a: Français de France
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+l: closing_background_message
+stime: 2024-10-08-14-11
+T: 1406
+t: info
+l: opening_experiment_message
+stime: 2024-10-08-14-11
+T: 3769
+t: info
+l: intro_experiment_message1
+stime: 2024-10-08-14-11
+T: 11328
+t: info
+l: FR_test_exp
+stime: 2024-10-08-14-12
+T: 38372
+t: experiment
+l: intro_experiment_message2
+stime: 2024-10-08-14-14
+T: 81864
+t: info
+l: FR_official_exp
+stime: 2024-10-08-14-26
+T: 772982
+t: experiment
+l: end_experiment_message
+stime: 2024-10-08-14-26
+T: 2827
+t: info
+endcode: 
+end 2024-10-08-14-26
